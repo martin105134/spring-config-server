@@ -1,7 +1,0 @@
-spring.data.mongodb.uri=mongodb+srv://root:root@cluster0.xzwok.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0
-spring.data.mongodb.database=ecommerce
-server.port=8092
-logging.level.com.example.userservice=DEBUG
-management.tracing.sampling.probability=1.0
-spring.kafka.consumer.bootstrap-servers=localhost:9092
-spring.kafka.consumer.group-id=ec_group_2
